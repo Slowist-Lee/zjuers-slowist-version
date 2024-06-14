@@ -4,6 +4,19 @@ body {
   overflow-y: auto;
 }
 
+
+@font-face {
+  font-family: 'LXGW WenKai';
+  src: url('fonts/LXGWWenKai-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+body {
+  font-family: "LXGW WenKai", sans-serif;
+} 
+
 /*自定义模式启动*/
 .customize_mode .link-list-a {
   color: #75b1c7;
