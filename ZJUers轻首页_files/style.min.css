@@ -5,7 +5,7 @@ body {
 
 @font-face {
     font-family: 'LXGW WenKai';
-    src: url('fonts/LXGWWenKai-Regular.ttf') format('ttf');
+    src: url('fonts/LXGWWenKai-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
